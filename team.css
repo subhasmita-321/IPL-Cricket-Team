@@ -1,0 +1,109 @@
+body {
+  background-color: dimgray;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 52px;
+  text-align: center;
+}
+.team {
+  display: flex;
+  text-align: center;
+  width: auto;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+  color: blue;
+}
+.team1 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team2 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team3 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team4 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team5 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team6 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team7 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+.team8 {
+  background-color: white;
+  margin: 5px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  position: relative;
+  margin-top: 90px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
